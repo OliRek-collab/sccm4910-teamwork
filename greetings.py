@@ -9,10 +9,11 @@ Review the change with a partner before merging it.
 def banner():
     print("=== SCCM4910 team greetings ===")
 
-
+	
 if __name__ == "__main__":
     banner()
     # --- ADD YOUR GREETING BELOW THIS LINE ---
+	# ---Run python3 greetings.py to run the code. ---
     print("Hello from OliRek-collab!")  #this is a greeting from me
                                           #this is a test comment
 
