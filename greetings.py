@@ -14,6 +14,7 @@ if __name__ == "__main__":
     banner()
     # --- ADD YOUR GREETING BELOW THIS LINE ---
 	# ---Run python3 greetings.py to run the code. ---
+	# --- To change greetings, delete the username below and replace with your own.
     print("Hello from OliRek-collab!")  #this is a greeting from me
                                           #this is a test comment
 
